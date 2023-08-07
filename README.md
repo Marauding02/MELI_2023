@@ -5,9 +5,7 @@ Repository created for the MELI DS challenge 2023
 Dentro del marketplace existen productos similares o idénticos entre sí (son productos vendidos por distintos sellers, en la api puedes obtener y descargar los títulos e incluso las imágenes!).<br>
 ¿Cómo buscar dichos ítems para agruparlos y volverlos comparables entre sí? Esto permitiría mejorar la experiencia ante muchas opciones similares.
 
-## 1. Entendimiento del problema
-
-## 2. Planteamiento de Preguntas:
+## 1. Entendimiento del problema y Planteamiento de Preguntas:
 Se definirán preguntas clave que el análisis debe responder. Estas preguntas guiarán el enfoque y ayudarán a establecer los pasos a seguir y el objetivo final del ejercicio.
 
 ## 3. Obtención y Exploración de la Información:
