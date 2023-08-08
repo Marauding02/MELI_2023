@@ -11,6 +11,11 @@ Se definirán preguntas clave que el análisis debe responder. Estas preguntas g
 ## 3. Obtención y Exploración de la Información:
 Se recopilarán los datos relevantes sobre los productos. Enfoque en la categorización de los productos a través de las etiquetas que categorizan cada SKU. A través de la exploración de datos, se identificarán patrones, tendencias y posibles problemas que puedan afectar el algoritmo de similitud.
 
+
+
+![image](https://github.com/Marauding02/MELI_2023/assets/25874293/d5a5c766-fa9f-4d2c-9759-779d8aad1cba)
+
+
 ## 4. Planteamiento de Solución:
 Con base en los resultados de la exploración de datos, se propondrá una solución potencial para encontrar items similares entre ellos. Se considerará lograr un "match" entre los productos de tal forma que se puedan sugerir aquellos con mayor porcentaje de similitud.
 
@@ -19,7 +24,5 @@ Se desarrollará una solución analítica utilizando Python, y métodos de ML (T
 
 ## 6. Presentación de Tus Resultados:
 Los resultados del análisis se presentarán de manera clara y visualmente atractiva.
-
-
 
 
