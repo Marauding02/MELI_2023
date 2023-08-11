@@ -1,6 +1,19 @@
 # MELI_2023
 Repository created for the MELI DS challenge 2023
 
+## Requerimientos
+
+Instalar paquetes de data asociados a la libreria "Natural Language Toolkit"
+> https://www.nltk.org/index.html#natural-language-toolkit
+
+```shell
+$ pip install sklearn
+$ pip install nltk
+$ import nltk
+$ nltk.download('stopwords')
+```
+
+
 ## Problema seleccionado 
 Dentro del marketplace existen productos similares o idénticos entre sí (son productos vendidos por distintos sellers, en la api puedes obtener y descargar los títulos e incluso las imágenes!).<br>
 ¿Cómo buscar dichos ítems para agruparlos y volverlos comparables entre sí? Esto permitiría mejorar la experiencia ante muchas opciones similares.
@@ -20,7 +33,7 @@ Se recopilarán los datos relevantes sobre los productos. Enfoque en la categori
 Con base en los resultados de la exploración de datos, se propondrá una solución potencial para encontrar items similares entre ellos. Se considerará lograr un "match" entre los productos de tal forma que se puedan sugerir aquellos con mayor porcentaje de similitud.
 
 ## 5. Creación de la Solución Analítica:
-Se desarrollará una solución analítica utilizando Python, y métodos de ML (TBT) . Esto incluirá la implementación de algoritmos y modelos para analizar datos y proporcionar insights accionables.
+Se desarrollará una solución analítica utilizando Python y ML (TF-IDF y suma ponderada de variables) . Esto incluirá la implementación de algoritmos y modelos para analizar datos y proporcionar insights accionables.
 
 ## 6. Presentación de Tus Resultados:
 Los resultados del análisis se presentarán de manera clara y visualmente atractiva.
