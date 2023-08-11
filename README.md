@@ -3,6 +3,9 @@ Repository created for the MELI DS challenge 2023
 
 ## Requerimientos
 
+La solución del problema se encuentra en el Notebook "Product Match.ipynb" con los pasos necesarios para correr el modelo.
+
+
 Instalar paquetes de data asociados a la libreria "Natural Language Toolkit"
 > https://www.nltk.org/index.html#natural-language-toolkit
 
@@ -37,5 +40,8 @@ Se desarrollará una solución analítica utilizando Python y ML (TF-IDF y suma 
 
 ## 6. Presentación de Tus Resultados:
 Los resultados del análisis se presentarán de manera clara y visualmente atractiva.
+Acceso a la presentación en el siguiente link:
+> https://urlis.net/rdy98x47
+
 
 
